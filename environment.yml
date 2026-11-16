@@ -1,0 +1,11 @@
+name: proyecto3
+channels:
+  - conda-forge
+dependencies:
+  - huggingface_hub
+  - numpy
+  - pandas
+  - pip
+  - python=3.11
+
+prefix: "/home/javcanelo/micromamba/envs/proyecto3"

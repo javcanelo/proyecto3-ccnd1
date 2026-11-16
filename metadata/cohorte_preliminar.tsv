@@ -1,0 +1,445 @@
+CCND1	CTTN	FGF19	ANO1	patient	subsitio	CCND1_amp
+0	0	0	0	TCGA-4P-AA8J	Cavidad oral	0
+2	2	2	2	TCGA-BA-4074	Cavidad oral	1
+2	2	2	2	TCGA-BA-4075	Cavidad oral	1
+2	2	2	2	TCGA-BA-4076	Laringe	1
+1	1	1	1	TCGA-BA-4077	Orofaringe	0
+2	2	2	2	TCGA-BA-4078	Laringe	1
+2	2	2	2	TCGA-BA-5149	Cavidad oral	1
+0	0	0	0	TCGA-BA-5151	Cavidad oral	0
+0	0	0	0	TCGA-BA-5152	Cavidad oral	0
+-1	-1	-1	-1	TCGA-BA-5153	Orofaringe	0
+1	1	1	1	TCGA-BA-5555	Laringe	0
+1	1	1	1	TCGA-BA-5556	Cavidad oral	0
+0	0	0	0	TCGA-BA-5557	Cavidad oral	0
+1	1	1	1	TCGA-BA-5558	Cavidad oral	0
+0	0	0	0	TCGA-BA-5559	Orofaringe	0
+1	2	1	2	TCGA-BA-6868	Laringe	0
+0	0	0	0	TCGA-BA-6869	Laringe	0
+1	1	1	1	TCGA-BA-6870	Laringe	0
+2	2	2	2	TCGA-BA-6871	Orofaringe	1
+2	2	2	2	TCGA-BA-6872	Cavidad oral	1
+1	-1	1	-1	TCGA-BA-6873	Cavidad oral	0
+2	2	2	2	TCGA-BA-7269	Cavidad oral	1
+0	0	0	0	TCGA-BA-A6D8	Cavidad oral	0
+2	2	2	2	TCGA-BA-A6DA	Laringe	1
+0	0	0	0	TCGA-BA-A6DB	Cavidad oral	0
+2	2	2	2	TCGA-BA-A6DD	Cavidad oral	1
+0	0	0	0	TCGA-BA-A6DE	Cavidad oral	0
+0	0	0	0	TCGA-BA-A6DF	Cavidad oral	0
+2	2	2	2	TCGA-BA-A6DG	Cavidad oral	1
+0	0	0	0	TCGA-BA-A6DI	Laringe	0
+0	0	0	0	TCGA-BA-A6DJ	Cavidad oral	0
+1	1	1	1	TCGA-BA-A6DL	Orofaringe	0
+1	1	1	1	TCGA-BA-A8YP	Orofaringe	0
+2	2	2	2	TCGA-BB-4217	Laringe	1
+0	0	0	0	TCGA-BB-4223	Orofaringe	0
+0	0	0	0	TCGA-BB-4224	Cavidad oral	0
+1	1	1	1	TCGA-BB-4225	Orofaringe	0
+2	2	2	2	TCGA-BB-4227	Hipofaringe	1
+0	0	0	0	TCGA-BB-4228	Orofaringe	0
+1	1	1	1	TCGA-BB-7861	Orofaringe	0
+0	0	0	0	TCGA-BB-7862	Laringe	0
+0	0	0	0	TCGA-BB-7863	Cavidad oral	0
+0	0	0	0	TCGA-BB-7864	Laringe	0
+0	0	0	0	TCGA-BB-7866	Orofaringe	0
+2	2	2	2	TCGA-BB-7870	Laringe	1
+2	2	2	2	TCGA-BB-7871	Orofaringe	1
+0	0	0	0	TCGA-BB-7872	Cavidad oral	0
+2	2	2	2	TCGA-BB-8596	Hipofaringe	1
+0	0	0	0	TCGA-BB-8601	Cavidad oral	0
+1	2	1	2	TCGA-BB-A5HU	Cavidad oral	0
+0	0	0	0	TCGA-BB-A5HY	Hipofaringe	0
+0	0	0	0	TCGA-BB-A5HZ	Cavidad oral	0
+0	0	0	0	TCGA-BB-A6UM	Orofaringe	0
+1	1	1	1	TCGA-BB-A6UO	Cavidad oral	0
+1	1	1	1	TCGA-C9-A47Z	Cavidad oral	0
+0	0	0	0	TCGA-C9-A480	Cavidad oral	0
+0	0	0	0	TCGA-CN-4722	Laringe	0
+1	1	1	1	TCGA-CN-4723	Laringe	0
+0	0	0	0	TCGA-CN-4725	Cavidad oral	0
+0	0	0	0	TCGA-CN-4726	Cavidad oral	0
+2	2	2	2	TCGA-CN-4727	Laringe	1
+2	2	2	2	TCGA-CN-4728	Cavidad oral	1
+-1	-1	-1	-1	TCGA-CN-4729	Cavidad oral	0
+0	0	0	0	TCGA-CN-4730	Cavidad oral	0
+1	1	1	1	TCGA-CN-4731	Cavidad oral	0
+0	0	0	0	TCGA-CN-4733	Cavidad oral	0
+2	2	2	2	TCGA-CN-4735	Laringe	1
+-1	-1	-1	-1	TCGA-CN-4736	Cavidad oral	0
+1	1	1	1	TCGA-CN-4737	Cavidad oral	0
+1	1	1	1	TCGA-CN-4738	Laringe	0
+2	2	2	2	TCGA-CN-4739	Laringe	1
+0	0	0	0	TCGA-CN-4740	Cavidad oral	0
+0	0	0	0	TCGA-CN-4741	Cavidad oral	0
+2	2	2	2	TCGA-CN-4742	Cavidad oral	1
+1	1	1	1	TCGA-CN-5355	Laringe	0
+0	0	0	0	TCGA-CN-5356	Laringe	0
+0	0	0	0	TCGA-CN-5358	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CN-5359	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CN-5360	Laringe	0
+1	1	1	1	TCGA-CN-5363	Laringe	0
+2	2	2	2	TCGA-CN-5364	Cavidad oral	1
+2	2	2	2	TCGA-CN-5365	Orofaringe	1
+1	2	1	2	TCGA-CN-5366	Hipofaringe	0
+1	1	1	1	TCGA-CN-5367	Cavidad oral	0
+0	0	0	0	TCGA-CN-5369	Cavidad oral	0
+1	1	1	1	TCGA-CN-5373	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CN-5374	Orofaringe	0
+1	1	1	1	TCGA-CN-6010	Laringe	0
+2	2	2	2	TCGA-CN-6011	Cavidad oral	1
+2	2	2	2	TCGA-CN-6012	Laringe	1
+2	2	2	2	TCGA-CN-6013	Cavidad oral	1
+0	0	0	0	TCGA-CN-6016	Cavidad oral	0
+0	0	0	0	TCGA-CN-6017	Cavidad oral	0
+1	1	1	1	TCGA-CN-6018	Cavidad oral	0
+0	0	0	0	TCGA-CN-6019	Cavidad oral	0
+1	2	2	2	TCGA-CN-6020	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CN-6021	Laringe	0
+0	0	0	0	TCGA-CN-6022	Laringe	0
+0	0	0	0	TCGA-CN-6023	Laringe	0
+0	0	0	0	TCGA-CN-6024	Cavidad oral	0
+0	0	0	0	TCGA-CN-6988	Laringe	0
+2	2	2	2	TCGA-CN-6989	Laringe	1
+2	2	2	2	TCGA-CN-6992	Laringe	1
+2	2	2	2	TCGA-CN-6994	Cavidad oral	1
+0	0	0	0	TCGA-CN-6996	Cavidad oral	0
+2	2	2	2	TCGA-CN-6997	Laringe	1
+-1	-1	-1	-1	TCGA-CN-6998	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CN-A63T	Laringe	0
+1	1	1	1	TCGA-CN-A63U	Laringe	0
+0	0	0	0	TCGA-CN-A63V	Cavidad oral	0
+0	0	0	0	TCGA-CN-A63W	Laringe	0
+-1	-1	-1	-1	TCGA-CN-A63Y	Orofaringe	0
+0	0	0	0	TCGA-CN-A640	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CN-A641	Laringe	0
+0	0	0	0	TCGA-CN-A642	Cavidad oral	0
+2	2	2	2	TCGA-CQ-5323	Cavidad oral	1
+0	0	0	0	TCGA-CQ-5324	Cavidad oral	0
+0	0	0	0	TCGA-CQ-5325	Cavidad oral	0
+2	2	2	2	TCGA-CQ-5326	Cavidad oral	1
+1	1	1	1	TCGA-CQ-5329	Cavidad oral	0
+0	0	0	0	TCGA-CQ-5330	Cavidad oral	0
+0	0	0	0	TCGA-CQ-5331	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CQ-5332	Cavidad oral	0
+1	1	1	1	TCGA-CQ-5333	Cavidad oral	0
+1	1	1	1	TCGA-CQ-5334	Cavidad oral	0
+0	0	0	0	TCGA-CQ-6218	Cavidad oral	0
+0	0	0	0	TCGA-CQ-6220	Cavidad oral	0
+0	0	0	0	TCGA-CQ-6223	Cavidad oral	0
+0	-1	0	-1	TCGA-CQ-6224	Cavidad oral	0
+1	1	1	1	TCGA-CQ-6225	Cavidad oral	0
+1	1	1	1	TCGA-CQ-6227	Cavidad oral	0
+2	2	2	2	TCGA-CQ-6228	Cavidad oral	1
+1	1	1	1	TCGA-CQ-6229	Cavidad oral	0
+1	1	1	1	TCGA-CQ-7063	Cavidad oral	0
+0	0	0	0	TCGA-CQ-7064	Cavidad oral	0
+1	1	1	1	TCGA-CQ-7065	Cavidad oral	0
+1	2	1	2	TCGA-CQ-7067	Cavidad oral	0
+0	0	0	0	TCGA-CQ-7068	Cavidad oral	0
+1	1	1	1	TCGA-CQ-7069	Cavidad oral	0
+0	0	0	0	TCGA-CQ-7071	Cavidad oral	0
+0	0	0	0	TCGA-CQ-7072	Cavidad oral	0
+2	2	2	2	TCGA-CQ-A4C6	Cavidad oral	1
+1	1	1	1	TCGA-CQ-A4C7	Cavidad oral	0
+0	0	0	0	TCGA-CQ-A4C9	Cavidad oral	0
+2	2	2	2	TCGA-CQ-A4CA	Cavidad oral	1
+2	2	2	2	TCGA-CQ-A4CB	Cavidad oral	1
+1	1	1	1	TCGA-CQ-A4CD	Cavidad oral	0
+1	1	1	1	TCGA-CQ-A4CE	Cavidad oral	0
+1	1	1	1	TCGA-CQ-A4CG	Cavidad oral	0
+0	0	0	0	TCGA-CQ-A4CH	Cavidad oral	0
+0	0	0	0	TCGA-CQ-A4CI	Cavidad oral	0
+2	2	2	2	TCGA-CV-5430	Laringe	1
+2	2	2	2	TCGA-CV-5431	Laringe	1
+-1	-1	-1	-1	TCGA-CV-5432	Laringe	0
+0	0	0	0	TCGA-CV-5434	Laringe	0
+0	0	0	0	TCGA-CV-5435	Laringe	0
+0	0	0	0	TCGA-CV-5436	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CV-5439	Orofaringe	0
+2	2	2	2	TCGA-CV-5440	Laringe	1
+2	2	2	2	TCGA-CV-5441	Laringe	1
+0	0	0	0	TCGA-CV-5442	Cavidad oral	0
+0	0	0	0	TCGA-CV-5443	Laringe	0
+0	0	0	0	TCGA-CV-5444	Laringe	0
+0	0	0	0	TCGA-CV-5966	Cavidad oral	0
+1	1	1	1	TCGA-CV-5970	Cavidad oral	0
+0	0	0	0	TCGA-CV-5971	Cavidad oral	0
+2	2	2	2	TCGA-CV-5973	Cavidad oral	1
+1	1	1	1	TCGA-CV-5976	Cavidad oral	0
+2	2	2	2	TCGA-CV-5977	Cavidad oral	1
+1	1	1	1	TCGA-CV-5978	Laringe	0
+2	2	2	2	TCGA-CV-5979	Cavidad oral	1
+1	1	1	1	TCGA-CV-6003	Cavidad oral	0
+-2	-2	-2	-2	TCGA-CV-6433	Cavidad oral	0
+0	0	0	0	TCGA-CV-6436	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CV-6441	Cavidad oral	0
+2	2	2	2	TCGA-CV-6933	Cavidad oral	1
+0	0	0	0	TCGA-CV-6934	Cavidad oral	0
+2	2	2	2	TCGA-CV-6935	Laringe	1
+2	2	2	2	TCGA-CV-6936	Cavidad oral	1
+1	1	1	1	TCGA-CV-6937	Cavidad oral	0
+0	0	0	0	TCGA-CV-6938	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CV-6939	Cavidad oral	0
+1	1	1	1	TCGA-CV-6940	Cavidad oral	0
+0	0	0	0	TCGA-CV-6941	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CV-6942	Cavidad oral	0
+0	0	0	0	TCGA-CV-6943	Orofaringe	0
+2	2	2	2	TCGA-CV-6945	Cavidad oral	1
+0	0	0	0	TCGA-CV-6948	Cavidad oral	0
+2	2	2	2	TCGA-CV-6950	Orofaringe	1
+1	1	1	1	TCGA-CV-6951	Cavidad oral	0
+0	0	0	0	TCGA-CV-6952	Cavidad oral	0
+0	0	0	0	TCGA-CV-6953	Cavidad oral	0
+0	0	0	0	TCGA-CV-6954	Cavidad oral	0
+0	0	0	0	TCGA-CV-6955	Cavidad oral	0
+2	2	2	2	TCGA-CV-6956	Cavidad oral	1
+1	1	1	1	TCGA-CV-6959	Cavidad oral	0
+1	1	1	1	TCGA-CV-6960	Cavidad oral	0
+0	0	0	0	TCGA-CV-6961	Cavidad oral	0
+0	0	0	0	TCGA-CV-6962	Laringe	0
+0	0	0	0	TCGA-CV-7089	Laringe	0
+0	0	0	0	TCGA-CV-7090	Cavidad oral	0
+1	1	1	1	TCGA-CV-7091	Cavidad oral	0
+2	2	2	2	TCGA-CV-7095	Cavidad oral	1
+2	2	2	2	TCGA-CV-7097	Cavidad oral	1
+0	0	0	0	TCGA-CV-7099	Cavidad oral	0
+0	0	0	0	TCGA-CV-7100	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CV-7101	Laringe	0
+2	2	2	2	TCGA-CV-7102	Cavidad oral	1
+0	0	0	0	TCGA-CV-7103	Cavidad oral	0
+0	0	0	0	TCGA-CV-7104	Cavidad oral	0
+0	0	0	0	TCGA-CV-7177	Laringe	0
+2	2	2	2	TCGA-CV-7178	Cavidad oral	1
+0	0	0	0	TCGA-CV-7180	Cavidad oral	0
+0	0	0	0	TCGA-CV-7183	Cavidad oral	0
+2	2	2	2	TCGA-CV-7235	Cavidad oral	1
+0	0	0	0	TCGA-CV-7236	Cavidad oral	0
+0	0	0	0	TCGA-CV-7238	Cavidad oral	0
+0	0	0	0	TCGA-CV-7242	Laringe	0
+1	1	1	1	TCGA-CV-7243	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CV-7245	Laringe	0
+1	1	1	1	TCGA-CV-7247	Laringe	0
+0	0	0	0	TCGA-CV-7248	Laringe	0
+0	0	0	0	TCGA-CV-7250	Laringe	0
+0	0	0	0	TCGA-CV-7252	Cavidad oral	0
+0	0	0	0	TCGA-CV-7253	Cavidad oral	0
+0	0	0	0	TCGA-CV-7254	Cavidad oral	0
+1	1	1	1	TCGA-CV-7255	Cavidad oral	0
+1	1	1	1	TCGA-CV-7261	Laringe	0
+-1	-1	-1	-1	TCGA-CV-7263	Cavidad oral	0
+0	0	0	0	TCGA-CV-7406	Orofaringe	0
+1	1	1	1	TCGA-CV-7407	Cavidad oral	0
+0	0	0	0	TCGA-CV-7409	Cavidad oral	0
+0	0	0	0	TCGA-CV-7410	Laringe	0
+0	0	0	0	TCGA-CV-7411	Cavidad oral	0
+0	0	0	0	TCGA-CV-7413	Cavidad oral	0
+2	2	2	2	TCGA-CV-7414	Cavidad oral	1
+2	2	2	2	TCGA-CV-7415	Laringe	1
+1	1	1	1	TCGA-CV-7416	Cavidad oral	0
+2	2	2	2	TCGA-CV-7418	Laringe	1
+-1	-1	-1	-1	TCGA-CV-7421	Laringe	0
+2	2	2	2	TCGA-CV-7422	Laringe	1
+2	2	2	2	TCGA-CV-7423	Cavidad oral	1
+0	0	0	0	TCGA-CV-7424	Laringe	0
+0	0	0	0	TCGA-CV-7425	Cavidad oral	0
+0	0	0	0	TCGA-CV-7427	Cavidad oral	0
+0	0	0	0	TCGA-CV-7428	Cavidad oral	0
+0	0	0	0	TCGA-CV-7429	Cavidad oral	0
+0	0	0	0	TCGA-CV-7430	Laringe	0
+2	2	2	2	TCGA-CV-7432	Cavidad oral	1
+2	-1	2	2	TCGA-CV-7433	Laringe	1
+0	0	0	0	TCGA-CV-7434	Cavidad oral	0
+2	2	2	2	TCGA-CV-7435	Cavidad oral	1
+0	0	0	0	TCGA-CV-7437	Laringe	0
+0	0	0	0	TCGA-CV-7438	Cavidad oral	0
+1	1	1	1	TCGA-CV-7440	Laringe	0
+0	0	0	0	TCGA-CV-A45O	Cavidad oral	0
+0	0	0	0	TCGA-CV-A45P	Cavidad oral	0
+0	0	0	0	TCGA-CV-A45Q	Cavidad oral	0
+1	1	1	1	TCGA-CV-A45R	Cavidad oral	0
+0	0	0	0	TCGA-CV-A45T	Cavidad oral	0
+2	2	2	2	TCGA-CV-A45U	Cavidad oral	1
+0	0	0	0	TCGA-CV-A45V	Cavidad oral	0
+1	1	1	1	TCGA-CV-A45W	Laringe	0
+1	2	1	2	TCGA-CV-A45X	Cavidad oral	0
+-1	-1	-1	-1	TCGA-CV-A45Y	Laringe	0
+0	0	0	0	TCGA-CV-A45Z	Laringe	0
+2	2	2	2	TCGA-CV-A460	Laringe	1
+0	0	0	0	TCGA-CV-A461	Laringe	0
+0	0	0	0	TCGA-CV-A463	Cavidad oral	0
+0	0	0	0	TCGA-CV-A464	Cavidad oral	0
+0	0	0	0	TCGA-CV-A465	Cavidad oral	0
+0	0	0	0	TCGA-CV-A468	Cavidad oral	0
+0	0	0	0	TCGA-CV-A6JD	Cavidad oral	0
+2	2	2	2	TCGA-CV-A6JE	Cavidad oral	1
+2	2	2	2	TCGA-CV-A6JM	Hipofaringe	1
+2	2	2	2	TCGA-CV-A6JN	Cavidad oral	1
+0	0	0	0	TCGA-CV-A6JO	Cavidad oral	0
+0	0	0	0	TCGA-CV-A6JT	Cavidad oral	0
+0	0	0	0	TCGA-CV-A6JU	Cavidad oral	0
+0	0	0	0	TCGA-CV-A6JY	Cavidad oral	0
+1	1	1	1	TCGA-CV-A6JZ	Cavidad oral	0
+0	0	0	0	TCGA-CV-A6K0	Cavidad oral	0
+0	0	0	0	TCGA-CV-A6K1	Laringe	0
+0	0	0	0	TCGA-CV-A6K2	Cavidad oral	0
+2	2	2	2	TCGA-CX-7082	Cavidad oral	1
+0	0	0	0	TCGA-CX-7085	Cavidad oral	0
+2	2	2	2	TCGA-CX-7086	Cavidad oral	1
+1	1	1	1	TCGA-CX-7219	Cavidad oral	0
+2	2	2	2	TCGA-CX-A4AQ	Cavidad oral	1
+0	0	0	0	TCGA-D6-6515	Cavidad oral	0
+1	1	1	1	TCGA-D6-6516	Cavidad oral	0
+1	1	1	1	TCGA-D6-6517	Laringe	0
+0	0	0	0	TCGA-D6-6823	Cavidad oral	0
+0	0	0	0	TCGA-D6-6824	Laringe	0
+2	2	2	2	TCGA-D6-6825	Cavidad oral	1
+2	2	2	2	TCGA-D6-6826	Laringe	1
+1	1	1	1	TCGA-D6-6827	Cavidad oral	0
+1	1	1	1	TCGA-D6-8568	Laringe	0
+0	0	0	0	TCGA-D6-8569	Cavidad oral	0
+2	2	2	2	TCGA-D6-A4Z9	Cavidad oral	1
+1	1	1	1	TCGA-D6-A4ZB	Cavidad oral	0
+0	0	0	0	TCGA-D6-A6EK	Laringe	0
+0	0	0	0	TCGA-D6-A6EM	Cavidad oral	0
+0	0	0	0	TCGA-D6-A6EN	Cavidad oral	0
+0	0	0	0	TCGA-D6-A6EO	Cavidad oral	0
+2	2	2	2	TCGA-D6-A6EP	Hipofaringe	1
+0	0	0	0	TCGA-D6-A6EQ	Laringe	0
+2	2	2	2	TCGA-D6-A6ES	Laringe	1
+-1	-1	-1	-1	TCGA-D6-A74Q	Laringe	0
+0	0	0	0	TCGA-DQ-5624	Cavidad oral	0
+2	2	2	2	TCGA-DQ-5625	Cavidad oral	1
+0	0	0	0	TCGA-DQ-5629	Laringe	0
+0	0	0	0	TCGA-DQ-5630	Cavidad oral	0
+1	1	1	1	TCGA-DQ-5631	Cavidad oral	0
+2	2	2	2	TCGA-DQ-7588	Cavidad oral	1
+2	2	2	2	TCGA-DQ-7589	Laringe	1
+-1	-1	-1	-1	TCGA-DQ-7590	Orofaringe	0
+0	0	0	0	TCGA-DQ-7591	Orofaringe	0
+0	0	0	0	TCGA-DQ-7592	Cavidad oral	0
+0	0	0	0	TCGA-DQ-7593	Orofaringe	0
+-1	-1	-1	-1	TCGA-DQ-7594	Orofaringe	0
+0	0	0	0	TCGA-DQ-7595	Laringe	0
+-1	-1	-1	-1	TCGA-DQ-7596	Orofaringe	0
+2	2	2	2	TCGA-F7-7848	Laringe	1
+2	2	2	2	TCGA-F7-8298	Laringe	1
+0	0	0	0	TCGA-F7-8489	Cavidad oral	0
+0	0	0	0	TCGA-F7-A50G	Cavidad oral	0
+2	1	2	1	TCGA-F7-A50I	Laringe	1
+1	1	1	1	TCGA-F7-A50J	Cavidad oral	0
+0	0	0	0	TCGA-F7-A61S	Cavidad oral	0
+1	1	1	1	TCGA-F7-A61V	Orofaringe	0
+0	0	0	0	TCGA-F7-A61W	Cavidad oral	0
+0	0	0	0	TCGA-F7-A620	Orofaringe	0
+1	1	1	1	TCGA-F7-A622	Laringe	0
+0	0	0	0	TCGA-F7-A623	Laringe	0
+0	0	0	0	TCGA-F7-A624	Cavidad oral	0
+-1	-1	-1	-1	TCGA-H7-A6C4	Cavidad oral	0
+-1	-1	-1	-1	TCGA-H7-A6C5	Laringe	0
+-1	-1	-1	-1	TCGA-H7-A76A	Orofaringe	0
+1	1	1	1	TCGA-HD-7229	Laringe	0
+2	2	2	2	TCGA-HD-7753	Orofaringe	1
+0	0	0	0	TCGA-HD-7754	Orofaringe	0
+1	1	1	1	TCGA-HD-7831	Cavidad oral	0
+0	0	0	0	TCGA-HD-7832	Cavidad oral	0
+-1	-1	-1	-1	TCGA-HD-7917	Cavidad oral	0
+0	0	0	0	TCGA-HD-8224	Orofaringe	0
+0	0	0	0	TCGA-HD-8314	Orofaringe	0
+0	0	0	0	TCGA-HD-8634	Cavidad oral	0
+0	0	0	0	TCGA-HD-8635	Cavidad oral	0
+0	0	0	0	TCGA-HD-A4C1	Cavidad oral	0
+0	0	0	0	TCGA-HD-A633	Cavidad oral	0
+0	0	0	0	TCGA-HD-A634	Orofaringe	0
+-1	-1	-1	-1	TCGA-HD-A6HZ	Cavidad oral	0
+0	0	0	0	TCGA-HD-A6I0	Cavidad oral	0
+-1	-1	-1	-1	TCGA-HL-7533	Cavidad oral	0
+1	1	1	1	TCGA-IQ-7630	Orofaringe	0
+1	1	1	1	TCGA-IQ-7631	Cavidad oral	0
+0	0	0	0	TCGA-IQ-7632	Cavidad oral	0
+0	0	0	0	TCGA-IQ-A61E	Cavidad oral	0
+2	2	2	2	TCGA-IQ-A61G	Cavidad oral	1
+2	2	2	2	TCGA-IQ-A61H	Cavidad oral	1
+0	0	0	0	TCGA-IQ-A61I	Orofaringe	0
+1	1	1	1	TCGA-IQ-A61J	Cavidad oral	0
+1	1	1	1	TCGA-IQ-A61K	Cavidad oral	0
+1	1	1	1	TCGA-IQ-A61L	Cavidad oral	0
+-1	-1	-1	-1	TCGA-IQ-A61O	Orofaringe	0
+1	1	1	1	TCGA-IQ-A6SG	Cavidad oral	0
+1	1	1	1	TCGA-IQ-A6SH	Cavidad oral	0
+0	0	0	0	TCGA-KU-A66S	Laringe	0
+2	2	2	2	TCGA-KU-A66T	Cavidad oral	1
+0	0	0	0	TCGA-KU-A6H7	Orofaringe	0
+2	2	2	2	TCGA-KU-A6H8	Cavidad oral	1
+2	2	2	2	TCGA-MT-A51W	Orofaringe	1
+1	2	1	1	TCGA-MT-A51X	Cavidad oral	0
+0	0	0	0	TCGA-MT-A67A	Cavidad oral	0
+2	2	2	2	TCGA-MT-A67D	Cavidad oral	1
+0	0	0	0	TCGA-MT-A67F	Cavidad oral	0
+-1	-1	-1	-1	TCGA-MT-A67G	Orofaringe	0
+0	0	0	0	TCGA-MT-A7BN	Cavidad oral	0
+0	0	0	0	TCGA-MZ-A6I9	Orofaringe	0
+2	2	2	2	TCGA-MZ-A7D7	Orofaringe	1
+0	0	0	0	TCGA-P3-A5Q5	Orofaringe	0
+1	1	1	1	TCGA-P3-A5Q6	Orofaringe	0
+1	1	1	1	TCGA-P3-A5QA	Cavidad oral	0
+0	0	0	0	TCGA-P3-A5QE	Orofaringe	0
+-1	-1	-1	-1	TCGA-P3-A5QF	Cavidad oral	0
+-1	-1	-1	-1	TCGA-P3-A6SW	Orofaringe	0
+2	2	2	2	TCGA-P3-A6SX	Orofaringe	1
+0	0	0	0	TCGA-P3-A6T0	Cavidad oral	0
+0	0	0	0	TCGA-P3-A6T2	Cavidad oral	0
+2	2	2	2	TCGA-P3-A6T3	Cavidad oral	1
+2	2	2	2	TCGA-P3-A6T4	Cavidad oral	1
+1	1	1	1	TCGA-P3-A6T5	Cavidad oral	0
+0	0	0	0	TCGA-P3-A6T6	Cavidad oral	0
+2	2	2	2	TCGA-P3-A6T7	Cavidad oral	1
+-1	-1	-1	-1	TCGA-P3-A6T8	Cavidad oral	0
+0	0	0	0	TCGA-QK-A64Z	Cavidad oral	0
+0	0	0	0	TCGA-QK-A652	Cavidad oral	0
+0	0	0	0	TCGA-QK-A6IF	Orofaringe	0
+-1	-1	-1	1	TCGA-QK-A6IG	Cavidad oral	0
+2	2	2	2	TCGA-QK-A6IH	Cavidad oral	1
+0	0	0	0	TCGA-QK-A6II	Cavidad oral	0
+2	2	2	2	TCGA-QK-A6IJ	Cavidad oral	1
+0	0	0	0	TCGA-QK-A6V9	Orofaringe	0
+0	0	0	0	TCGA-QK-A6VB	Cavidad oral	0
+0	0	0	0	TCGA-QK-A6VC	Hipofaringe	0
+-1	-1	-1	-1	TCGA-QK-A8Z7	Cavidad oral	0
+0	0	0	0	TCGA-QK-A8Z8	Laringe	0
+1	1	1	1	TCGA-QK-A8Z9	Cavidad oral	0
+2	2	2	2	TCGA-QK-A8ZA	Orofaringe	1
+0	0	0	0	TCGA-QK-A8ZB	Laringe	0
+1	1	1	1	TCGA-QK-AA3J	Laringe	0
+2	2	2	2	TCGA-QK-AA3K	Cavidad oral	1
+0	0	0	0	TCGA-RS-A6TO	Cavidad oral	0
+0	0	0	0	TCGA-RS-A6TP	Orofaringe	0
+0	0	0	0	TCGA-T2-A6WX	Cavidad oral	0
+1	1	1	1	TCGA-T2-A6WZ	Cavidad oral	0
+0	0	0	0	TCGA-T2-A6X0	Orofaringe	0
+0	0	0	0	TCGA-T2-A6X2	Cavidad oral	0
+2	2	2	2	TCGA-T3-A92M	Laringe	1
+-1	-1	-1	-1	TCGA-T3-A92N	Cavidad oral	0
+0	0	0	0	TCGA-TN-A7HI	Orofaringe	0
+0	0	0	0	TCGA-TN-A7HJ	Laringe	0
+0	0	0	0	TCGA-TN-A7HL	Hipofaringe	0
+1	1	1	1	TCGA-UF-A718	Laringe	0
+1	1	1	1	TCGA-UF-A719	Cavidad oral	0
+-1	-1	-1	-1	TCGA-UF-A71A	Cavidad oral	0
+2	2	2	2	TCGA-UF-A71B	Cavidad oral	1
+2	2	2	2	TCGA-UF-A71D	Laringe	1
+2	2	2	2	TCGA-UF-A71E	Cavidad oral	1
+0	0	0	0	TCGA-UF-A7J9	Laringe	0
+2	2	2	2	TCGA-UF-A7JA	Cavidad oral	1
+1	1	1	1	TCGA-UF-A7JC	Cavidad oral	0
+2	2	2	2	TCGA-UF-A7JD	Cavidad oral	1
+0	0	0	0	TCGA-UF-A7JF	Laringe	0
+-1	-1	-1	-1	TCGA-UF-A7JH	Laringe	0
+2	1	2	2	TCGA-UF-A7JJ	Laringe	1
+0	0	0	0	TCGA-UF-A7JK	Laringe	0
+0	0	0	0	TCGA-UF-A7JO	Cavidad oral	0
+2	2	2	2	TCGA-UF-A7JS	Cavidad oral	1
+0	0	0	0	TCGA-UF-A7JT	Cavidad oral	0
+2	2	2	2	TCGA-UF-A7JV	Hipofaringe	1
+0	0	0	0	TCGA-WA-A7GZ	Cavidad oral	0
+0	0	0	0	TCGA-WA-A7H4	Cavidad oral	0
